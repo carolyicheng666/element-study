@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
-import App from './data/Badge.vue'
+import App from './notice/Loading.vue'
 
 Vue.use(ElementUI)
 
