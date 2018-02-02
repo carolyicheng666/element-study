@@ -46,11 +46,13 @@
 </template>
 <script>
 	export default {
-    data: () => ({
-      show: true,
-      show2: true,
-      show3: true
-    })
+    data() {
+      return {
+        show: true,
+        show2: true,
+        show3: true
+      }
+    }
   }
 </script>
 <style>
